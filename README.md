@@ -26,4 +26,8 @@ In a terminal or command window, navigate to the top-level project directory `bo
 
 This will open the iPython Notebook software and project file in your browser.
 
+### Results
+
+KNN produced a prediction accuracy of 93% on 100 training examples
+
 
